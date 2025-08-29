@@ -1,4 +1,4 @@
-import 'package:belajar/belajar.dart';
+import 'package:tugas_mobile/tugas_mobile.dart';
 import 'package:test/test.dart';
 
 void main() {
